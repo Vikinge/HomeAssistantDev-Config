@@ -1,0 +1,221 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  latitude: !secret homeassistant_latitude
+  longitude: !secret homeassistant_longitude
+  elevation: !secret homeassistant_elevation
+  #Yaml Check : http://www.yamllint.com
+  unit_system: imperial
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: America/New_York
+  customize: !include customize.yaml
+
+api:
+frontend:
+updater:
+  reporting: no
+  include_used_components: true
+sun:
+#ios:
+map:
+config:
+discovery:
+  ignore:
+#    - sonos
+    - netgear_router
+    - harmony
+    - google_cast
+    - philips_hue
+    - yeelight
+#conversation:
+logger: !include logger.yaml
+
+wemo:
+  discovery: true
+tts:
+  - platform: google
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+# http:
+#   base_url: 10.20.5.200:832781
+# media_player:
+#   - platform: apple_tv
+#     name: Apple TV
+#     host: 10.20.5.158
+#     login_id: REDACTED
+#     start_off: False
+# lovelace:
+#   mode: yaml
+
+
+#################################################################
+## Components
+#################################################################
+
+# google:
+#   client_id: !secret google_oauth_id
+#   client_secret: !secret google_oauth_secret
+#   track_new_calendar: false
+
+amcrest:
+  - host: !secret amcrest_living_host
+    name: Living Room
+    username: !secret amcrest_user
+    password: !secret amcrest_pass
+    sensors:
+      - motion_detector
+    stream_source: rtsp
+
+  - host: !secret amcrest_garage_host
+    name: Garage
+    username: !secret amcrest_user
+    password: !secret amcrest_pass
+    sensors:
+      - motion_detector
+    stream_source: rtsp
+
+  # - host: !secret amcrest_chalkboard_host
+  #   name: Chalkboard Room
+  #   username: !secret amcrest_user
+  #   password: !secret amcrest_pass
+  #   sensors:
+  #     - motion_detector
+  #   stream_source: rtsp
+
+  - host: !secret amcrest_shop_host
+    name: Shop
+    username: !secret amcrest_user
+    password: !secret amcrest_pass
+    sensors:
+      - motion_detector
+    stream_source: rtsp
+
+emulated_hue:
+#  type: alexa
+  host_ip: !secret ha_host
+  listen_port: 8300
+  expose_by_default: false
+  entities:
+    input_boolean.media_center_shield:
+      name: "Shield"
+      hidden: false
+    input_boolean.media_center_tv:
+      name: "TV"
+      hidden: false
+    input_boolean.media_center_poweroff:
+      name: "PowerOff"
+      hidden: false
+    input_boolean.master_firetv:
+      name: "Master Fire TV"
+      hidden: false
+    input_boolean.master_tv:
+      name: "Master TV"
+      hidden: false
+    input_boolean.master_poweroff:
+      name: "Master PowerOff"
+      hidden: false
+    switch.wemominicactus:
+      name: "Cactus Light"
+      hidden: false
+    group.media_center_lights:
+      name: "TV Light"
+      hidden: false
+
+ffmpeg:
+
+hue:
+  bridges:
+    - host: !secret hue_hub_host
+
+mqtt:
+  broker: !secret mqtt_host
+  port: 1883
+  client_id: REDACTED
+  username: !secret mqtt_user
+  password: !secret mqtt_pass
+
+nest:
+  client_id: !secret nest_client_id
+  client_secret: !secret nest_client_secret
+
+octoprint:
+  host: !secret octopi_host
+  api_key: !secret octoprint_api
+  bed: true
+  number_of_tools: 1
+
+ring:
+  username: !secret ring_username
+  password: !secret ring_password
+
+shell_command:
+#  query_cox_data_usage: 'python /home/homeassistant/.homeassistant/cox_usage.py'
+#  influxdb_state_injection: /bin/bash -c "sh /home/pi/update_influx_states.sh"
+
+sonos:
+  media_player:
+    hosts:
+      - !secret sonos_chalkboard_host
+      - !secret sonos_den_host
+      - !secret sonos_kitchen_host
+      - !secret sonos_office_host
+
+tts:
+  - platform: google
+    cache: true
+    time_memory: 300
+
+tuya:
+  username: !secret tuya_username
+  password: !secret tuya_password
+  country_code: 1
+  platform: smart_life
+
+weather:
+  - platform: darksky
+    api_key: !secret darksky_api_key
+
+wemo:
+#  static:
+#    - !secret wemo_mini_cactus_host
+#    - !secret wemo_insight_host
+
+# xiaomi_aqara:
+#   discovery_retry: 5
+#   gateways:
+#     - key: !secret xiaomi_key
+
+zwave:
+  usb_path: /dev/ttyACM0
+#  new_entity_ids: true
+#  config_path: /srv/homeassistant/lib/python3.4/site-packages/python_openzwave/ozw_config
+  polling_interval: 30000
+  device_config:
+    light.ge_14294_porch_level:
+      polling_intensity: 1
+      refresh_value: true
+    light.ge_14294_exterior_side_level:
+      polling_intensity: 1
+      refresh_value: true
+
+#################################################################
+## Includes
+#################################################################
+
+automation: !include_dir_merge_list automation
+recorder: !include recorder.yaml
+history: !include history.yaml
+zone: !include zones.yaml
+group: !include groups.yaml
+sensor: !include sensor.yaml
+switch: !include switch.yaml
+binary_sensor: !include binary_sensor.yaml
+input_select: !include input_select.yaml
+input_boolean: !include input_boolean.yaml
+light: !include light.yaml
+camera: !include camera.yaml
+device_tracker: !include device_tracker.yaml
+notify: !include notify.yaml
+script: !include scripts.yaml
+remote: !include remote.yaml
+media_player: !include media_player.yaml
