@@ -56,24 +56,6 @@
                     ],
                     "path": "default_view",
                     "title": "Home"
-                },
-                {
-                    "badges": [],
-                    "cards": [
-                        {
-                            "states": [
-                                "arm_home",
-                                "arm_away"
-                            ],
-                            "type": "alarm-panel"
-                        },
-                        {
-                            "entity": "sensor.water_leak_sensor_temperature_measurement",
-                            "graph": "line",
-                            "type": "sensor"
-                        }
-                    ],
-                    "title": "test"
                 }
             ]
         }

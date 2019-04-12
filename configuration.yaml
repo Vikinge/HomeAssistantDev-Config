@@ -16,7 +16,7 @@ updater:
   reporting: no
   include_used_components: true
 sun:
-#ios:
+ios:
 map:
 config:
 discovery:
@@ -29,6 +29,10 @@ discovery:
     - yeelight
 #conversation:
 logger: !include logger.yaml
+system_health:
+cloud:
+# lovelace:
+#   mode: yaml
 
 wemo:
   discovery: true
@@ -44,9 +48,19 @@ tts:
 #     host: 10.20.5.158
 #     login_id: REDACTED
 #     start_off: False
-# lovelace:
-#   mode: yaml
 
+
+http:
+  # Using NGINX Reverse Proxy with SSL
+#  api_password: !secret ha_password
+  trusted_proxies:
+    - 10.20.5.0/24
+    - 10.10.0.0/24
+    - 127.0.0.1
+  ip_ban_enabled: False
+  login_attempts_threshold: 3
+  use_x_forwarded_for: True
+  base_url: https://10.20.5.200:8123
 
 #################################################################
 ## Components
