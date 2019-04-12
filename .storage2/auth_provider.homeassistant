@@ -1,0 +1,12 @@
+{
+    "data": {
+        "users": [
+            {
+                "password": "JDJiJDEyJEJ2Q3ZTYlpDay9oSXZGLklDeEMxZHUueVY3MGVjaS9IMXI2QkhSQkY4RDdXd05zTGhEN21h",
+                "username": "vikinge"
+            }
+        ]
+    },
+    "key": "auth_provider.homeassistant",
+    "version": 1
+}

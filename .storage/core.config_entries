@@ -1,0 +1,106 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "local_poll",
+                "data": {},
+                "domain": "tplink",
+                "entry_id": "f484c86b696d4f1ca0c85a60b6daaa2c",
+                "options": {},
+                "source": "user",
+                "title": "TP-Link Smart Home",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "access_token": "09cd17bb-73be-4ce8-bc96-fc2cd7a1f325",
+                    "app_id": "cf15bb34-0dda-4393-8bd2-4431ded85d9a",
+                    "client_id": "d591a889-cde0-4f99-bce0-ddf0c0741dfc",
+                    "client_secret": "bec137ea-fec8-409f-97fb-fccb9b0244e8",
+                    "installed_app_id": "1005143f-e7bc-4f1d-a688-14ae03615e0d",
+                    "location_id": "ca49de41-c502-4078-88d7-e44343ebec19",
+                    "refresh_token": "575c501d-c1f0-4df5-a302-0beec324dfc4"
+                },
+                "domain": "smartthings",
+                "entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "options": {},
+                "source": "user",
+                "title": "Home",
+                "version": 2
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {},
+                "domain": "ios",
+                "entry_id": "1a2955903b564780a03ee517b574f3f5",
+                "options": {},
+                "source": "user",
+                "title": "Home Assistant iOS",
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "001788FFFE22731B",
+                    "host": "10.20.5.134",
+                    "username": "jiYdeKwuR2pXIY6AMaDqIwpu4CB9tLdgC5iM4gub"
+                },
+                "domain": "hue",
+                "entry_id": "25568a68cadf472cb9273158a772c528",
+                "options": {},
+                "source": "user",
+                "title": "Philips hue",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "mqtt",
+                "entry_id": "1687e56e0fc248928d5a64c01a7eb502",
+                "options": {},
+                "source": "import",
+                "title": "configuration.yaml",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "sonos",
+                "entry_id": "7ff34f03ba1f4e55ac8d9d7f5fa1d34b",
+                "options": {},
+                "source": "import",
+                "title": "Sonos",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {
+                    "network_key": null,
+                    "usb_path": "/dev/ttyACM0"
+                },
+                "domain": "zwave",
+                "entry_id": "44086d4e204249bc9e0582a04f453d89",
+                "options": {},
+                "source": "import",
+                "title": "Z-Wave (import from configuration.yaml)",
+                "version": 1
+            },
+            {
+                "connection_class": "unknown",
+                "data": {
+                    "secret": "9cf40ca4bdd9a4fa59ee04c3da439202",
+                    "webhook_id": "1c33c878f4be1c6702e9905234c9bb29f67569071acafd0fdd9f36ab4a228d39"
+                },
+                "domain": "owntracks",
+                "entry_id": "bd4e29d53cdc4147be3c2cd3c9402460",
+                "options": {},
+                "source": "import",
+                "title": "OwnTracks",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

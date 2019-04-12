@@ -1,0 +1,70 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_push",
+                "data": {},
+                "domain": "ios",
+                "entry_id": "aa9c6e86198640e482c14134aac002c5",
+                "options": {},
+                "source": "user",
+                "title": "Home Assistant iOS",
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {},
+                "domain": "tplink",
+                "entry_id": "4218bdd8e3a14a548f3fb37b9f8efdd3",
+                "options": {},
+                "source": "user",
+                "title": "TP-Link Smart Home",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "access_token": "09cd17bb-73be-4ce8-bc96-fc2cd7a1f325",
+                    "app_id": "9f6c4f16-5b10-41b8-aaf5-9ce3748b6057",
+                    "client_id": "a1edc0fc-2203-4907-a6da-231636d19892",
+                    "client_secret": "5ccd5d47-9092-4572-b9bd-c4e7b9d0e35b",
+                    "installed_app_id": "e54c8e48-f4b5-4932-a5cf-571130bfa7a9",
+                    "location_id": "ca49de41-c502-4078-88d7-e44343ebec19",
+                    "refresh_token": "dd28116a-b359-4b50-b901-9a2d209c49af"
+                },
+                "domain": "smartthings",
+                "entry_id": "4d68a02b207b4ba9ad1b28485c0e2930",
+                "options": {},
+                "source": "user",
+                "title": "Home",
+                "version": 2
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "001788FFFE22731B",
+                    "host": "10.20.5.134",
+                    "username": "4SA46uKqmsDvhMpIfR1z8-rKfGYUVC7k6cF95kS5"
+                },
+                "domain": "hue",
+                "entry_id": "26a4550d8af44bd0bfc363f01840ba32",
+                "options": {},
+                "source": "discovery",
+                "title": "Philips hue",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "sonos",
+                "entry_id": "551eb61e7dea462e9adb0fc9d18f0bf1",
+                "options": {},
+                "source": "discovery",
+                "title": "Sonos",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

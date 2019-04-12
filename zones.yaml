@@ -1,0 +1,51 @@
+################################################################
+## Zones
+#################################################################
+
+- name: Home
+  latitude: !secret homeassistant_latitude
+  longitude: !secret homeassistant_longitude
+  radius: 450
+  icon: mdi:home
+
+- name: !secret prek_name
+  latitude: !secret prek_latitude
+  longitude: !secret prek_longitude
+  radius: 150
+  icon: mdi:school
+
+- name: Swim
+  latitude: !secret swim_latitude
+  longitude: !secret swim_longitude
+  radius: 150
+  icon: mdi:swim
+
+- name: Work
+  latitude: !secret work_latitude
+  longitude: !secret work_longitude
+  radius: 150
+  icon: mdi:domain
+
+- name: !secret gran_name
+  latitude: !secret gran_latitude
+  longitude: !secret gran_longitude
+  radius: 150
+  icon: mdi:home
+
+- name: Target
+  latitude: !secret target_latitude
+  longitude: !secret target_longitude
+  radius: 150
+  icon: mdi:target
+
+- name: !secret k_name
+  latitude: !secret k_latitude
+  longitude: !secret k_longitude
+  radius: 150
+  icon: mdi:school
+
+- name: !secret bg_name
+  latitude: !secret bg_latitude
+  longitude: !secret bg_longitude
+  radius: 150
+  icon: mdi:human-child

@@ -1,0 +1,83 @@
+{
+    "data": {
+        "config": {
+            "title": "Home",
+            "views": [
+                {
+                    "badges": [
+                        "binary_sensor.remote_ui",
+                        "person.eric",
+                        "device_tracker.erics_ipad_pro_129",
+                        "sun.sun"
+                    ],
+                    "cards": [
+                        {
+                            "entity": "light.bedroom",
+                            "name": "Bedroom",
+                            "type": "light"
+                        },
+                        {
+                            "aspect_ratio": "90%",
+                            "type": "iframe",
+                            "url": "https://embed.windy.com/embed2.html?lat=32.487&lon=-84.023&zoom=5&level=surface&overlay=rain&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=32.487&detailLon=--84.023&metricWind=default&metricTemp=default&radarRange=-1"
+                        },
+                        {
+                            "entities": [
+                                "sensor.living_room",
+                                "input_select.livingroomharmony",
+                                "input_select.hdmiswitcher",
+                                "input_select.hdmiinput",
+                                "input_number.harmonyvolume",
+                                "sensor.total_tv_time",
+                                "sensor.sonos_audio_in",
+                                "script.tv_off"
+                            ],
+                            "show_header_toggle": false,
+                            "title": "Entertainment",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "media_player.65_hisense_roku_tv"
+                                }
+                            ],
+                            "theme": "default",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "sensor.in_law_slider_smartsense_open_closed_sensor_battery",
+                            "type": "sensor"
+                        },
+                        {
+                            "entity": "media_player.65_hisense_roku_tv",
+                            "type": "media-control"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                },
+                {
+                    "badges": [],
+                    "cards": [
+                        {
+                            "states": [
+                                "arm_home",
+                                "arm_away"
+                            ],
+                            "type": "alarm-panel"
+                        },
+                        {
+                            "entity": "sensor.water_leak_sensor_temperature_measurement",
+                            "graph": "line",
+                            "type": "sensor"
+                        }
+                    ],
+                    "title": "test"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

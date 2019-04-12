@@ -1,0 +1,3470 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Holiday Lighting",
+                    "icon": "mdi:gift",
+                    "options": [
+                        "None",
+                        "Valentine's Day",
+                        "St. Patuserone's Day",
+                        "Easter",
+                        "Memorial Day",
+                        "Independence Day",
+                        "Labor Day",
+                        "Halloween",
+                        "Veterans Day",
+                        "Thanksgiving",
+                        "Christmas"
+                    ]
+                },
+                "context": {
+                    "id": "e0d768ce823d450e94def9944e77c66f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_select.holiday",
+                "last_changed": "2019-04-12T14:29:51.174173+00:00",
+                "last_updated": "2019-04-12T14:29:51.174173+00:00",
+                "state": "None"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Media Center Remote",
+                    "icon": "mdi:remote",
+                    "options": [
+                        "PowerOff",
+                        "Shield",
+                        "TV",
+                        "Prime",
+                        "Netflix",
+                        "Blueray"
+                    ]
+                },
+                "context": {
+                    "id": "86c49f9fa20f4f29a570abb257793a19",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_select.remote",
+                "last_changed": "2019-04-12T14:29:51.177957+00:00",
+                "last_updated": "2019-04-12T14:29:51.177957+00:00",
+                "state": "PowerOff"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sonos",
+                    "icon": "mdi:speaker-wireless",
+                    "options": [
+                        "None",
+                        "Play All '90s Station",
+                        "Play Classical Station",
+                        "Play Little Kids Station",
+                        "Play Smooth Jazz Station",
+                        "Play Top Hip-hop Station",
+                        "Play Top Pop Station",
+                        "Play Caffeine for Your Ears Playlist",
+                        "Play Coffee Shop Pop Playlist",
+                        "Play Devastating Dubstep Drops Playlist"
+                    ]
+                },
+                "context": {
+                    "id": "794f0fbd9aae462cb42bf1df18140c98",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_select.sonos",
+                "last_changed": "2019-04-12T14:29:51.178995+00:00",
+                "last_updated": "2019-04-12T14:29:51.178995+00:00",
+                "state": "None"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Master Remote",
+                    "icon": "mdi:remote",
+                    "options": [
+                        "PowerOff",
+                        "Fire TV",
+                        "TV"
+                    ]
+                },
+                "context": {
+                    "id": "1cc64a922c32410ab9e50fe50291fda3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_select.master_remote",
+                "last_changed": "2019-04-12T14:29:51.179847+00:00",
+                "last_updated": "2019-04-12T14:29:51.179847+00:00",
+                "state": "PowerOff"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Baby Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "c4620f68b3404d60b8130453d2ffdc78",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.baby_occupancy",
+                "last_changed": "2019-04-12T14:29:51.180630+00:00",
+                "last_updated": "2019-04-12T14:29:51.180630+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "usertwo Away",
+                    "icon": "mdi:human-female"
+                },
+                "context": {
+                    "id": "f28e52839a6947c1911c3e7e4febf025",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.usertwo_away",
+                "last_changed": "2019-04-12T14:29:51.181484+00:00",
+                "last_updated": "2019-04-12T14:29:51.181484+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Coffee Shop Playlist",
+                    "friendly_name": "Play Coffee Shop Pop Playlist",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "da90fa0db2cb4756a4273d9dd4c3c6ee",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.coffee_shop_playlist",
+                "last_changed": "2019-04-12T14:29:51.182248+00:00",
+                "last_updated": "2019-04-12T14:29:51.182248+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Chalkboard Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "41df3ce1b7944ed58401bfeeebe63524",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.chalkboard_occupancy",
+                "last_changed": "2019-04-12T14:29:51.183000+00:00",
+                "last_updated": "2019-04-12T14:29:51.183000+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "userone Away Driving",
+                    "icon": "mdi:car-sports"
+                },
+                "context": {
+                    "id": "8aaf76a3bc4947d090d255e6d697f5ce",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.userone_away_driving",
+                "last_changed": "2019-04-12T14:29:51.184231+00:00",
+                "last_updated": "2019-04-12T14:29:51.184231+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Dubstep Playlist",
+                    "friendly_name": "Play Devastating Dubstep Drops Playlist",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "b03071b7b7ec4a52a5fd850406f42279",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.dubstep_playlist",
+                "last_changed": "2019-04-12T14:29:51.184863+00:00",
+                "last_updated": "2019-04-12T14:29:51.184863+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Shop Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "984c601b695349059adc315655b0290f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.shop_occupancy",
+                "last_changed": "2019-04-12T14:29:51.185358+00:00",
+                "last_updated": "2019-04-12T14:29:51.185358+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "usertwo Away Driving",
+                    "icon": "mdi:car-estate"
+                },
+                "context": {
+                    "id": "3dbe775b98894028ac7c214ba043106a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.usertwo_away_driving",
+                "last_changed": "2019-04-12T14:29:51.185832+00:00",
+                "last_updated": "2019-04-12T14:29:51.185832+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sleep Time",
+                    "icon": "mdi:hotel"
+                },
+                "context": {
+                    "id": "697b955be0dc42469d47545bf2d1e533",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.sleep_time",
+                "last_changed": "2019-04-12T14:29:51.188126+00:00",
+                "last_updated": "2019-04-12T14:29:51.188126+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Disable Home / Away Mode",
+                    "icon": "mdi:map-marker-off"
+                },
+                "context": {
+                    "id": "53b03fc500f94090b71033cd2df8e493",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.disable_home_away",
+                "last_changed": "2019-04-12T14:29:51.189039+00:00",
+                "last_updated": "2019-04-12T14:29:51.189039+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Manually set userone Away",
+                    "icon": "mdi:home-outline"
+                },
+                "context": {
+                    "id": "5d074c2018354617a5ca665faddbee49",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.manual_userone_away",
+                "last_changed": "2019-04-12T14:29:51.189650+00:00",
+                "last_updated": "2019-04-12T14:29:51.189650+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Holiday Lights",
+                    "friendly_name": "Interior Holiday Lighting",
+                    "icon": "mdi:gift"
+                },
+                "context": {
+                    "id": "59167de6faf64f02aa0fff48f3136874",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.interior_holiday",
+                "last_changed": "2019-04-12T14:29:51.190643+00:00",
+                "last_updated": "2019-04-12T14:29:51.190643+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "House Guest Away",
+                    "icon": "mdi:human-male-female"
+                },
+                "context": {
+                    "id": "66bff2004a2346b4809f14d54afc0978",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.house_guest_away",
+                "last_changed": "2019-04-12T14:29:51.191153+00:00",
+                "last_updated": "2019-04-12T14:29:51.191153+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Manually set usertwo Away",
+                    "icon": "mdi:home-outline"
+                },
+                "context": {
+                    "id": "cf1db529df1d4fbc8c5848567aa3fc4d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.manual_usertwo_away",
+                "last_changed": "2019-04-12T14:29:51.191650+00:00",
+                "last_updated": "2019-04-12T14:29:51.191650+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Media Center Shield",
+                    "icon": "mdi:youtube-tv"
+                },
+                "context": {
+                    "id": "eddc8b2b7ed34c5081acb872316e3907",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.media_center_shield",
+                "last_changed": "2019-04-12T14:29:51.192267+00:00",
+                "last_updated": "2019-04-12T14:29:51.192267+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Disable Exterior Lights Off at Sunrise",
+                    "icon": "mdi:weather-sunny"
+                },
+                "context": {
+                    "id": "af639fb4e2fb4c69b5bf72df92474939",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.disable_exterior_off_sunrise",
+                "last_changed": "2019-04-12T14:29:51.193152+00:00",
+                "last_updated": "2019-04-12T14:29:51.193152+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Manually set userone Home",
+                    "icon": "mdi:home"
+                },
+                "context": {
+                    "id": "638ead49fe6d4248894f34b0e58534eb",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.manual_userone_home",
+                "last_changed": "2019-04-12T14:29:51.193851+00:00",
+                "last_updated": "2019-04-12T14:29:51.193851+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Media Center TV",
+                    "icon": "mdi:television-box"
+                },
+                "context": {
+                    "id": "ebcbf8ad1e2741b4b89ad6fd6cad7bf6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.media_center_tv",
+                "last_changed": "2019-04-12T14:29:51.199610+00:00",
+                "last_updated": "2019-04-12T14:29:51.199610+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Disable Exterior Lights On at Sunset",
+                    "icon": "mdi:weather-sunset-down"
+                },
+                "context": {
+                    "id": "913ea24828474a4cb27659f27beb74ea",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.disable_exterior_on_sunset",
+                "last_changed": "2019-04-12T14:29:51.206837+00:00",
+                "last_updated": "2019-04-12T14:29:51.206837+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Manually set usertwo Home",
+                    "icon": "mdi:home"
+                },
+                "context": {
+                    "id": "8cdccb10b9944c4fa5d56787d966b5fd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.manual_usertwo_home",
+                "last_changed": "2019-04-12T14:29:51.207636+00:00",
+                "last_updated": "2019-04-12T14:29:51.207636+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Media Center PowerOff",
+                    "icon": "mdi:television-off"
+                },
+                "context": {
+                    "id": "d6d672b50b1d40709863c879ca0837bb",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.media_center_poweroff",
+                "last_changed": "2019-04-12T14:29:51.208361+00:00",
+                "last_updated": "2019-04-12T14:29:51.208361+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Disable Exterior Lights Dim at 9PM",
+                    "icon": "mdi:lightbulb-outline"
+                },
+                "context": {
+                    "id": "2357c6885b464294b19bf087b4928e4e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.disable_exterior_dim_9pm",
+                "last_changed": "2019-04-12T14:29:51.208967+00:00",
+                "last_updated": "2019-04-12T14:29:51.208967+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "All Speakers",
+                    "friendly_name": "Play on all Speakers",
+                    "icon": "mdi:speaker-wireless"
+                },
+                "context": {
+                    "id": "a382ad81fa1a4c6cb6701ea0a59dd7da",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.group_all_sonos",
+                "last_changed": "2019-04-12T14:29:51.209505+00:00",
+                "last_updated": "2019-04-12T14:29:51.209505+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Master Shield",
+                    "icon": "mdi:youtube-tv"
+                },
+                "context": {
+                    "id": "7fbc953714004de7b4ea31e25ce73c7d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.master_firetv",
+                "last_changed": "2019-04-12T14:29:51.210032+00:00",
+                "last_updated": "2019-04-12T14:29:51.210032+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Disable Audio Notifications",
+                    "icon": "mdi:speaker-off"
+                },
+                "context": {
+                    "id": "c9b1dd855e494365a8417682d29f9661",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.disable_voice_greeting",
+                "last_changed": "2019-04-12T14:29:51.210595+00:00",
+                "last_updated": "2019-04-12T14:29:51.210595+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "90s Music",
+                    "friendly_name": "Play All '90s Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "9b7bb645bcd24cd6b08c6ad7b4a0f755",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.90_station",
+                "last_changed": "2019-04-12T14:29:51.211326+00:00",
+                "last_updated": "2019-04-12T14:29:51.211326+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Master TV",
+                    "icon": "mdi:television-box"
+                },
+                "context": {
+                    "id": "ae4c18fa777b4eeba41d22e0c820ba2f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.master_tv",
+                "last_changed": "2019-04-12T14:29:51.212159+00:00",
+                "last_updated": "2019-04-12T14:29:51.212159+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Vacation Mode",
+                    "icon": "mdi:airplane"
+                },
+                "context": {
+                    "id": "68fa54821adf47a694d10136ffb9c7a1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.vacation_mode",
+                "last_changed": "2019-04-12T14:29:51.212704+00:00",
+                "last_updated": "2019-04-12T14:29:51.212704+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Classical Music",
+                    "friendly_name": "Play Classical Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "5cf7c6dc289d4701bf45c5b17e0b47e1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.classical_station",
+                "last_changed": "2019-04-12T14:29:51.213393+00:00",
+                "last_updated": "2019-04-12T14:29:51.213393+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Master PowerOff",
+                    "icon": "mdi:television-off"
+                },
+                "context": {
+                    "id": "c06396a151cb49fb8df9b82321e2cf03",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.master_poweroff",
+                "last_changed": "2019-04-12T14:29:51.214467+00:00",
+                "last_updated": "2019-04-12T14:29:51.214467+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Test Audio Notification",
+                    "icon": "mdi:test-tube"
+                },
+                "context": {
+                    "id": "52fe842e569f4ad39e7a870e562b42c4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.test_audio_notification",
+                "last_changed": "2019-04-12T14:29:51.215097+00:00",
+                "last_updated": "2019-04-12T14:29:51.215097+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Work From Home Mode",
+                    "icon": "mdi:briefcase"
+                },
+                "context": {
+                    "id": "bd1d15ef967842b896c574233defa9de",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.wfh_mode",
+                "last_changed": "2019-04-12T14:29:51.215630+00:00",
+                "last_updated": "2019-04-12T14:29:51.215630+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Kids Music",
+                    "friendly_name": "Play Little Kids Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "515a9862bcf247dfad859b770432b94a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.kids_station",
+                "last_changed": "2019-04-12T14:29:51.216137+00:00",
+                "last_updated": "2019-04-12T14:29:51.216137+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Test Text Notification",
+                    "icon": "mdi:test-tube"
+                },
+                "context": {
+                    "id": "b929edaf98864b8c8aea781246939265",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.test_text_notification",
+                "last_changed": "2019-04-12T14:29:51.216652+00:00",
+                "last_updated": "2019-04-12T14:29:51.216652+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Guest Mode",
+                    "icon": "mdi:human-male-female"
+                },
+                "context": {
+                    "id": "598cdcc6f95d49679179b4dcbe498f28",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.guest_mode",
+                "last_changed": "2019-04-12T14:29:51.217450+00:00",
+                "last_updated": "2019-04-12T14:29:51.217450+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Jazz Music",
+                    "friendly_name": "Play Smooth Jazz Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "3b546929f4e440778a831be0d645834d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.jazz_station",
+                "last_changed": "2019-04-12T14:29:51.218101+00:00",
+                "last_updated": "2019-04-12T14:29:51.218101+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Office Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "70c98ddd11d94aed9fa1a177d88faa14",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.office_occupancy",
+                "last_changed": "2019-04-12T14:29:51.218871+00:00",
+                "last_updated": "2019-04-12T14:29:51.218871+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "House Cleaning Mode",
+                    "icon": "mdi:broom"
+                },
+                "context": {
+                    "id": "a6d128fba7ae413194c25b945387e00b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.house_cleaning_mode",
+                "last_changed": "2019-04-12T14:29:51.219612+00:00",
+                "last_updated": "2019-04-12T14:29:51.219612+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Hiphop Music",
+                    "friendly_name": "Play Top Hip-hop Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "99f56fb75b5b4e3caef2150850bfd9b7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.hiphop_station",
+                "last_changed": "2019-04-12T14:29:51.220648+00:00",
+                "last_updated": "2019-04-12T14:29:51.220648+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "bf6a40c3a04640c0a74641dcafba24c7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.living_occupancy",
+                "last_changed": "2019-04-12T14:29:51.221459+00:00",
+                "last_updated": "2019-04-12T14:29:51.221459+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "userone Greeting Enabled",
+                    "icon": "mdi:voice"
+                },
+                "context": {
+                    "id": "1c561a9f63db48cc91802fc89ed38dc2",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.userone_greeting",
+                "last_changed": "2019-04-12T14:29:51.222065+00:00",
+                "last_updated": "2019-04-12T14:29:51.222065+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Pop Music",
+                    "friendly_name": "Play Top Pop Station",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "2c615fba51aa4c97b085647194df24f8",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.pop_station",
+                "last_changed": "2019-04-12T14:29:51.222828+00:00",
+                "last_updated": "2019-04-12T14:29:51.222828+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Garage Occupancy",
+                    "icon": "mdi:account"
+                },
+                "context": {
+                    "id": "fd17196b629643e78fce80c7126427be",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.garage_occupancy",
+                "last_changed": "2019-04-12T14:29:51.223467+00:00",
+                "last_updated": "2019-04-12T14:29:51.223467+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Garage Notification Enabled",
+                    "icon": "mdi:garage"
+                },
+                "context": {
+                    "id": "859b12d40532418a99c583dd6e831a56",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.garage_notification",
+                "last_changed": "2019-04-12T14:29:51.224237+00:00",
+                "last_updated": "2019-04-12T14:29:51.224237+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "emulated_hue_hidden": false,
+                    "emulated_hue_name": "Energetic Playlist",
+                    "friendly_name": "Play Caffeine for Your Ears Playlist",
+                    "icon": "mdi:music"
+                },
+                "context": {
+                    "id": "e40196c90d954d7da4fdd42da54aa87d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.caffeine_playlist",
+                "last_changed": "2019-04-12T14:29:51.225603+00:00",
+                "last_updated": "2019-04-12T14:29:51.225603+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "userone Away",
+                    "icon": "mdi:human-male"
+                },
+                "context": {
+                    "id": "628f89f5f3e341c8881a98e4d9a23c9e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "input_boolean.userone_away",
+                "last_changed": "2019-04-12T14:29:51.226724+00:00",
+                "last_updated": "2019-04-12T14:29:51.226724+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location manually set usertwo home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "93198a2b459249568f6f53df00bd0d56",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_manually_set_usertwo_home",
+                "last_changed": "2019-04-12T14:32:34.334275+00:00",
+                "last_updated": "2019-04-12T14:32:34.334275+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification text test",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "580ae9b9c8764bc490c6faedf5d9b868",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_text_test",
+                "last_changed": "2019-04-12T14:32:34.336654+00:00",
+                "last_updated": "2019-04-12T14:32:34.336654+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location reset usertwo home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "4a2b3bf5febd4287950efb04f6e803bf",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_reset_usertwo_home",
+                "last_changed": "2019-04-12T14:32:34.338156+00:00",
+                "last_updated": "2019-04-12T14:32:34.338156+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio garage open for 30min",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e83b2def89b74cc48667164d1f48b877",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_garage_open_for_30min",
+                "last_changed": "2019-04-12T14:32:34.339670+00:00",
+                "last_updated": "2019-04-12T14:32:34.339670+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location reset userone home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "303a4a3f3b294f2a94280f5019af229c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_reset_userone_home",
+                "last_changed": "2019-04-12T14:32:34.341134+00:00",
+                "last_updated": "2019-04-12T14:32:34.341134+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio REDACTED to home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "f9b8aeebd9a540a8b92a9a4476782dca",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_redacted_to_home",
+                "last_changed": "2019-04-12T14:32:34.347701+00:00",
+                "last_updated": "2019-04-12T14:32:34.347701+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday valentines day lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9f03773974ec42e9a9fe6e917d1d5429",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_valentines_day_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.349349+00:00",
+                "last_updated": "2019-04-12T14:32:34.349349+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location manually set userone home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9cf3a56456324825a895c765cf83ce6e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_manually_set_userone_home",
+                "last_changed": "2019-04-12T14:32:34.350866+00:00",
+                "last_updated": "2019-04-12T14:32:34.350866+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio usertwo arrived at work",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c1c98f4ea3374c1499a78c6c24b7d1bf",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_usertwo_arrived_at_work",
+                "last_changed": "2019-04-12T14:32:34.352367+00:00",
+                "last_updated": "2019-04-12T14:32:34.352367+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio usertwo left REDACTED to REDACTED",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "d7c194631c7c44c0872dcac45f706bb6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_usertwo_left_redacted_to_redacted",
+                "last_changed": "2019-04-12T14:32:34.354553+00:00",
+                "last_updated": "2019-04-12T14:32:34.354553+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "climate downstairs nest on if patio door closed",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "6920e4d6156e47ae9121f3624c9426b3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.climate_downstairs_nest_on_if_patio_door_closed",
+                "last_changed": "2019-04-12T14:32:34.356213+00:00",
+                "last_updated": "2019-04-12T14:32:34.356213+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday st patuserones day lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8f2c1f95c7bb488fbe16c571da59b013",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_st_patuserones_day_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.357890+00:00",
+                "last_updated": "2019-04-12T14:32:34.357890+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location manually set usertwo away",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "07163f32d1ba47bfa94d94c41b9135da",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_manually_set_usertwo_away",
+                "last_changed": "2019-04-12T14:32:34.359650+00:00",
+                "last_updated": "2019-04-12T14:32:34.359650+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio - usertwo arrived REDACTED",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "916f58245d564560b767f98c515d05ec",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_usertwo_arrived_redacted",
+                "last_changed": "2019-04-12T14:32:34.361306+00:00",
+                "last_updated": "2019-04-12T14:32:34.361306+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location reset manually set usertwo away",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "6b10bb4c15044895a635d2f86552099b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_reset_manually_set_usertwo_away",
+                "last_changed": "2019-04-12T14:32:34.363004+00:00",
+                "last_updated": "2019-04-12T14:32:34.363004+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio usertwo arrived REDACTED",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c072ce44fdbe49158c972207eb7be3e5",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_usertwo_arrived_redacted_2",
+                "last_changed": "2019-04-12T14:32:34.364784+00:00",
+                "last_updated": "2019-04-12T14:32:34.364784+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable labor day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "28b3f52df0404624a4f4ecd4d63566b8",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_labor_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.366649+00:00",
+                "last_updated": "2019-04-12T14:32:34.366649+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location reset manually set userone away",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "86590ff1c8eb4472b69bf0d8b7740e6b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_reset_manually_set_userone_away",
+                "last_changed": "2019-04-12T14:32:34.368316+00:00",
+                "last_updated": "2019-04-12T14:32:34.368316+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location manually set userone away",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "af1957eb3ad242b8870db8fa90e15364",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_manually_set_userone_away",
+                "last_changed": "2019-04-12T14:32:34.369989+00:00",
+                "last_updated": "2019-04-12T14:32:34.369989+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio usertwo left work",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "436c9cd600ce4d2b8bb457813efc8850",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_usertwo_left_work",
+                "last_changed": "2019-04-12T14:32:34.372270+00:00",
+                "last_updated": "2019-04-12T14:32:34.372270+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set userone away driving",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ce9d7b50b90e40f395ab2b75fd58d973",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_userone_away_driving",
+                "last_changed": "2019-04-12T14:32:34.374060+00:00",
+                "last_updated": "2019-04-12T14:32:34.374060+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable st patuserones day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0426f55896384fe6a978b74c9e1c8763",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_st_patuserones_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.375844+00:00",
+                "last_updated": "2019-04-12T14:32:34.375844+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set usertwo away driving",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7763573cae344933884c05028ea75e59",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_usertwo_away_driving",
+                "last_changed": "2019-04-12T14:32:34.377756+00:00",
+                "last_updated": "2019-04-12T14:32:34.377756+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set usertwo home after 5 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e7efbf4361cb4608a3fff81f1297b355",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_usertwo_home_after_5_mins",
+                "last_changed": "2019-04-12T14:32:34.379636+00:00",
+                "last_updated": "2019-04-12T14:32:34.379636+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set garage notication off if close to home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "d60f5a7fd6e7464d88921ebd9e5c5958",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_garage_notication_off_if_close_to_home",
+                "last_changed": "2019-04-12T14:32:34.382601+00:00",
+                "last_updated": "2019-04-12T14:32:34.382601+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set userone home after 5 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "d4d7ce1385de4dfba1c2010f7eda634b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_userone_home_after_5_mins",
+                "last_changed": "2019-04-12T14:32:34.384904+00:00",
+                "last_updated": "2019-04-12T14:32:34.384904+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set usertwo away after 2 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "f690d061a681479189a63274a8351792",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_usertwo_away_after_2_mins",
+                "last_changed": "2019-04-12T14:32:34.387888+00:00",
+                "last_updated": "2019-04-12T14:32:34.387888+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set garage notification on if no one home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "b75da722fbbb40429272e8c20e897cb4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_garage_notification_on_if_no_one_home",
+                "last_changed": "2019-04-12T14:32:34.390025+00:00",
+                "last_updated": "2019-04-12T14:32:34.390025+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "location set userone away after 2 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "99722a1954a74b3184e2742fe975d366",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.location_set_userone_away_after_2_mins",
+                "last_changed": "2019-04-12T14:32:34.392474+00:00",
+                "last_updated": "2019-04-12T14:32:34.392474+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights office nightlight on when occupied",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c3e9e0285c4c40718c582c1255928f05",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_office_nightlight_on_when_occupied",
+                "last_changed": "2019-04-12T14:32:34.394617+00:00",
+                "last_updated": "2019-04-12T14:32:34.394617+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights office nightlight off when not occupied",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ec7061d73a2d4f68a47688a15b888c1d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_office_nightlight_off_when_not_occupied",
+                "last_changed": "2019-04-12T14:32:34.396595+00:00",
+                "last_updated": "2019-04-12T14:32:34.396595+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights interior media center reset after holiday lights",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "6872c0c543474bdbb5b12cbd85b776b1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_interior_media_center_reset_after_holiday_lights",
+                "last_changed": "2019-04-12T14:32:34.398710+00:00",
+                "last_updated": "2019-04-12T14:32:34.398710+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights chalkboard room cactus light button",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e3b6cb4087fc40d697bbeaa33edb0db9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_chalkboard_room_cactus_light_button",
+                "last_changed": "2019-04-12T14:32:34.401482+00:00",
+                "last_updated": "2019-04-12T14:32:34.401482+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights exterior lights off 30min after sunrise",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "2fb20b94f71f488e9685bfd2d01a38d4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_exterior_lights_off_30min_after_sunrise",
+                "last_changed": "2019-04-12T14:32:34.404500+00:00",
+                "last_updated": "2019-04-12T14:32:34.404500+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio welcome home person",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0bc4ca6744134d1d9722e31e71119cfd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_welcome_home_person",
+                "last_changed": "2019-04-12T14:32:34.406599+00:00",
+                "last_updated": "2019-04-12T14:32:34.406599+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights exterior lights on 5min before sunset",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a9500d1bf84748e0b8b02c3266b1e459",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_exterior_lights_on_5min_before_sunset",
+                "last_changed": "2019-04-12T14:32:34.410698+00:00",
+                "last_updated": "2019-04-12T14:32:34.410698+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "lights exterior lights dim at 9pm",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "dfbced7ee0bb44379321565b1ef94c86",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.lights_exterior_lights_dim_at_9pm",
+                "last_changed": "2019-04-12T14:32:34.412755+00:00",
+                "last_updated": "2019-04-12T14:32:34.412755+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media unpause deluge if cox utilization under 89",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8161b7ca0db9459da5109d3a10a52bee",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_unpause_deluge_if_cox_utilization_under_89",
+                "last_changed": "2019-04-12T14:32:34.414977+00:00",
+                "last_updated": "2019-04-12T14:32:34.414977+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "guest set house cleaning mode off after 3 hours",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "1809e011b11f42e099ac7f4d98185ff3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.guest_set_house_cleaning_mode_off_after_3_hours",
+                "last_changed": "2019-04-12T14:32:34.417001+00:00",
+                "last_updated": "2019-04-12T14:32:34.417001+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification audio test",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e49482d5a4e347a28fd80b5994352a25",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_audio_test",
+                "last_changed": "2019-04-12T14:32:34.419088+00:00",
+                "last_updated": "2019-04-12T14:32:34.419088+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable christmas lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "72a56371233c4f958dbb8b144dac19b7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_christmas_lighting",
+                "last_changed": "2019-04-12T14:32:34.421151+00:00",
+                "last_updated": "2019-04-12T14:32:34.421151+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "guest set house cleaning mode on at 11am mondays",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "52dbba260ab146f1ac25067961ba4879",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.guest_set_house_cleaning_mode_on_at_11am_mondays",
+                "last_changed": "2019-04-12T14:32:34.423226+00:00",
+                "last_updated": "2019-04-12T14:32:34.423226+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media pause deluge if cox utilization above 89",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "58734119ed504e10b38c96508d04bcca",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_pause_deluge_if_cox_utilization_above_89",
+                "last_changed": "2019-04-12T14:32:34.425681+00:00",
+                "last_updated": "2019-04-12T14:32:34.425681+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "guest set house guest home after 10 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e41e959f881b4cdf908db8e6323e6f29",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.guest_set_house_guest_home_after_10_mins",
+                "last_changed": "2019-04-12T14:32:34.427766+00:00",
+                "last_updated": "2019-04-12T14:32:34.427766+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos stop activity from input select off",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a1c0e3eb97c9433b9070b9bba9a67e98",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_stop_activity_from_input_select_off",
+                "last_changed": "2019-04-12T14:32:34.430031+00:00",
+                "last_updated": "2019-04-12T14:32:34.430031+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday thanksgiving lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "606b35775b2842d1b6ef851ce168bdf5",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_thanksgiving_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.432107+00:00",
+                "last_updated": "2019-04-12T14:32:34.432107+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday reset lighting at 4a",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "07efc9871623493aa05661e146fcc00b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_reset_lighting_at_4a",
+                "last_changed": "2019-04-12T14:32:34.434335+00:00",
+                "last_updated": "2019-04-12T14:32:34.434335+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos stop activity from input select off",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0838db6f5c2e4a5e8e51294d0aa490d0",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_stop_activity_from_input_select_off_2",
+                "last_changed": "2019-04-12T14:32:34.436390+00:00",
+                "last_updated": "2019-04-12T14:32:34.436390+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday easter lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8f5e274b11034d9f98b5df83d7dbf223",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_easter_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.438589+00:00",
+                "last_updated": "2019-04-12T14:32:34.438589+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "guest set house guest away after 5 mins",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "b5c0f82aa56e41618c7d550f895519ea",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.guest_set_house_guest_away_after_5_mins",
+                "last_changed": "2019-04-12T14:32:34.440779+00:00",
+                "last_updated": "2019-04-12T14:32:34.440779+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select coffee shop",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "5f5df906d8354281b75b789ab30ae518",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_coffee_shop",
+                "last_changed": "2019-04-12T14:32:34.443004+00:00",
+                "last_updated": "2019-04-12T14:32:34.443004+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday independence memorial veterans labor day lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "eb508f5111fa4d1e9ea3f1a1191d1981",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_independence_memorial_veterans_labor_day_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.445264+00:00",
+                "last_updated": "2019-04-12T14:32:34.445264+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select dubstep",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "4fcb31b462554b3b8a28dfbcae30a2a0",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_dubstep",
+                "last_changed": "2019-04-12T14:32:34.447364+00:00",
+                "last_updated": "2019-04-12T14:32:34.447364+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select pop",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8a22bbb4b6464e3d9dfd3062146d4531",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_pop",
+                "last_changed": "2019-04-12T14:32:34.449603+00:00",
+                "last_updated": "2019-04-12T14:32:34.449603+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy wfh off",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "26f1beca0ae5400d94f318edf5b38f08",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_wfh_off",
+                "last_changed": "2019-04-12T14:32:34.451823+00:00",
+                "last_updated": "2019-04-12T14:32:34.451823+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday christmas lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "5912c9d875824940bd1b17737d1ff647",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_christmas_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.454032+00:00",
+                "last_updated": "2019-04-12T14:32:34.454032+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select caffeine",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ca87df4b0b8443a4bcbba91881eecca6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_caffeine",
+                "last_changed": "2019-04-12T14:32:34.457362+00:00",
+                "last_updated": "2019-04-12T14:32:34.457362+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "sleeptime",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ae29edcb141843d1bca5a9f925012fba",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.sleeptime",
+                "last_changed": "2019-04-12T14:32:34.459553+00:00",
+                "last_updated": "2019-04-12T14:32:34.459553+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable veterans day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "66ef72f341184ba999849d21a4b06a8f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_veterans_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.461831+00:00",
+                "last_updated": "2019-04-12T14:32:34.461831+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select jazz",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0f791c49af5b44a08892b8a544c66157",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_jazz",
+                "last_changed": "2019-04-12T14:32:34.464139+00:00",
+                "last_updated": "2019-04-12T14:32:34.464139+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy wfh home on",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "5788f42efc4a4548a3d1d02d8a1de3ad",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_wfh_home_on",
+                "last_changed": "2019-04-12T14:32:34.466420+00:00",
+                "last_updated": "2019-04-12T14:32:34.466420+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable valentines day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "48bd786970dd4f0091af9a13ab832f4f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_valentines_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.468744+00:00",
+                "last_updated": "2019-04-12T14:32:34.468744+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable memorial day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "28f1955419684141b6c08b56b4e71d33",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_memorial_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.470970+00:00",
+                "last_updated": "2019-04-12T14:32:34.470970+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select hiphop",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0b1859053806462ab088476970e8d88b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_hiphop",
+                "last_changed": "2019-04-12T14:32:34.473345+00:00",
+                "last_updated": "2019-04-12T14:32:34.473345+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy baby turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8d18e45582484ca08fedf410e201cf8a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_baby_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.475717+00:00",
+                "last_updated": "2019-04-12T14:32:34.475717+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable independence day lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "f7076ae5689b499288962cad3eba51a7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_independence_day_lighting",
+                "last_changed": "2019-04-12T14:32:34.478127+00:00",
+                "last_updated": "2019-04-12T14:32:34.478127+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select kids",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "06503b662f23495d9e4a708321925b83",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_kids",
+                "last_changed": "2019-04-12T14:32:34.480558+00:00",
+                "last_updated": "2019-04-12T14:32:34.480558+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy baby turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "cf13f9d07cc44c7a8ec8c724b04116fc",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_baby_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.482955+00:00",
+                "last_updated": "2019-04-12T14:32:34.482955+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable thanksgiving lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "75be490398c74bb896fecb29f3b8583d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_thanksgiving_lighting",
+                "last_changed": "2019-04-12T14:32:34.485388+00:00",
+                "last_updated": "2019-04-12T14:32:34.485388+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select all 90s",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "2242913ee5e34553b8a5b3eec8f519f4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_all_90s",
+                "last_changed": "2019-04-12T14:32:34.487915+00:00",
+                "last_updated": "2019-04-12T14:32:34.487915+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy shop turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c655c51cfe52420d9f55042c86f9ca07",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_shop_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.490319+00:00",
+                "last_updated": "2019-04-12T14:32:34.490319+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday halloween lighting interior",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "178ef680c1524d9297c196ec09809719",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_halloween_lighting_interior",
+                "last_changed": "2019-04-12T14:32:34.492666+00:00",
+                "last_updated": "2019-04-12T14:32:34.492666+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media sonos start activity from input select classical",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "96675771be544f6a92275bb265f1d11f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_sonos_start_activity_from_input_select_classical",
+                "last_changed": "2019-04-12T14:32:34.495113+00:00",
+                "last_updated": "2019-04-12T14:32:34.495113+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy shop turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ab1ce7a9611f4e808e1e127992274ac1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_shop_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.497661+00:00",
+                "last_updated": "2019-04-12T14:32:34.497661+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play coffee shop pop playlist",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "108213bb35024c64a7734dfbbf7d26d3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_coffee_shop_pop_playlist",
+                "last_changed": "2019-04-12T14:32:34.500039+00:00",
+                "last_updated": "2019-04-12T14:32:34.500039+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy chalkboard turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "3701488226e04f77bfb5b01eed460b78",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_chalkboard_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.503506+00:00",
+                "last_updated": "2019-04-12T14:32:34.503506+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play devastating dubstep drops playlist",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c8ffaa1ca8ee464e971c4b1860e260cf",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_devastating_dubstep_drops_playlist",
+                "last_changed": "2019-04-12T14:32:34.506047+00:00",
+                "last_updated": "2019-04-12T14:32:34.506047+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy garage turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e33921777bea47d7ad334543eb8b4532",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_garage_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.508726+00:00",
+                "last_updated": "2019-04-12T14:32:34.508726+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "climate office fan on when occupied",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a6259be2925647c3832157dd8010e4f6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.climate_office_fan_on_when_occupied",
+                "last_changed": "2019-04-12T14:32:34.511248+00:00",
+                "last_updated": "2019-04-12T14:32:34.511248+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play caffeine for your ears playlist",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "09e1315267e149938bc0b22ff7a6a26b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_caffeine_for_your_ears_playlist",
+                "last_changed": "2019-04-12T14:32:34.513774+00:00",
+                "last_updated": "2019-04-12T14:32:34.513774+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy chalkboard turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e00ccfca109844a98c4c1561579543b7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_chalkboard_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.516267+00:00",
+                "last_updated": "2019-04-12T14:32:34.516267+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "doorbell reset exterior lights to 35 after ring after 9pm",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "74c94763b7f64dd98e9d814f879370ee",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.doorbell_reset_exterior_lights_to_35_after_ring_after_9pm",
+                "last_changed": "2019-04-12T14:32:34.518856+00:00",
+                "last_updated": "2019-04-12T14:32:34.518856+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play top hiphop station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "58bfc97fda694dad84cc815c85567ccc",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_top_hiphop_station",
+                "last_changed": "2019-04-12T14:32:34.521397+00:00",
+                "last_updated": "2019-04-12T14:32:34.521397+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy living turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9f1e5e3886dc430cb542679a624b50e1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_living_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.523884+00:00",
+                "last_updated": "2019-04-12T14:32:34.523884+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "doorbell turn exterior lights to 100 when rung after 9pm",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ea8a6d459140479f90b51e3672d5717c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.doorbell_turn_exterior_lights_to_100_when_rung_after_9pm",
+                "last_changed": "2019-04-12T14:32:34.526512+00:00",
+                "last_updated": "2019-04-12T14:32:34.526512+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play top pop station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ce9cb21c4ff64a8a881ed1200a038203",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_top_pop_station",
+                "last_changed": "2019-04-12T14:32:34.529368+00:00",
+                "last_updated": "2019-04-12T14:32:34.529368+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy garage turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "99f1538f25d246d1834c92c95a11bf02",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_garage_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.532149+00:00",
+                "last_updated": "2019-04-12T14:32:34.532149+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play little kids station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "afb82f423e374ee687dcd6cc56c1f0ba",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_little_kids_station",
+                "last_changed": "2019-04-12T14:32:34.534723+00:00",
+                "last_updated": "2019-04-12T14:32:34.534723+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy living turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "cf8c8a00ceb04e80ad0b6a4e78511ba1",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_living_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.537350+00:00",
+                "last_updated": "2019-04-12T14:32:34.537350+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "climate office fan off when not occupied",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "61b5034cccd74f29af78fcf3ef323bb3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.climate_office_fan_off_when_not_occupied",
+                "last_changed": "2019-04-12T14:32:34.539972+00:00",
+                "last_updated": "2019-04-12T14:32:34.539972+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play smooth jazz station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "559760736cea49e3b998ab8a82c7807f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_smooth_jazz_station",
+                "last_changed": "2019-04-12T14:32:34.542596+00:00",
+                "last_updated": "2019-04-12T14:32:34.542596+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy office turn on if motion detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "360f47a233d542c8a77549d347fe986a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_office_turn_on_if_motion_detected",
+                "last_changed": "2019-04-12T14:32:34.545207+00:00",
+                "last_updated": "2019-04-12T14:32:34.545207+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play classical station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7c21bf2a374b456c904154170b94a355",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_classical_station",
+                "last_changed": "2019-04-12T14:32:34.548858+00:00",
+                "last_updated": "2019-04-12T14:32:34.548858+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "occupancy office turn off after 10min of no motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a8e8b90742814e84a9a921e5e86d30a4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.occupancy_office_turn_off_after_10min_of_no_motion",
+                "last_changed": "2019-04-12T14:32:34.551534+00:00",
+                "last_updated": "2019-04-12T14:32:34.551534+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media group all sonos",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "25c6901fb1324c1787ae0c76c13f434d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_group_all_sonos",
+                "last_changed": "2019-04-12T14:32:34.554225+00:00",
+                "last_updated": "2019-04-12T14:32:34.554225+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "doorbell reset exterior lights to 35 after motion detected after 9pm",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "3557c0a37cc845c9bae2ae1c23874b56",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.doorbell_reset_exterior_lights_to_35_after_motion_detected_after_9pm",
+                "last_changed": "2019-04-12T14:32:34.556884+00:00",
+                "last_updated": "2019-04-12T14:32:34.556884+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification visual front door motion",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "489b5998e3e44c9da5ac63a9588f5b90",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_visual_front_door_motion",
+                "last_changed": "2019-04-12T14:32:34.559659+00:00",
+                "last_updated": "2019-04-12T14:32:34.559659+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media play all 90s station",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "2c21ea0396ea481c9acbb63757109224",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_play_all_90s_station",
+                "last_changed": "2019-04-12T14:32:34.562818+00:00",
+                "last_updated": "2019-04-12T14:32:34.562818+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification visual front door ring",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "78f2a0b1fc1e45ffa05a2f19cead6dc5",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_visual_front_door_ring",
+                "last_changed": "2019-04-12T14:32:34.565610+00:00",
+                "last_updated": "2019-04-12T14:32:34.565610+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote sleep time",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9c2ad1ef7437460ab238889c071724ef",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_sleep_time",
+                "last_changed": "2019-04-12T14:32:34.569098+00:00",
+                "last_updated": "2019-04-12T14:32:34.569098+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification airvisual pollution level change",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9cb22560b6e84495b413329db6951afb",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_airvisual_pollution_level_change",
+                "last_changed": "2019-04-12T14:32:34.572876+00:00",
+                "last_updated": "2019-04-12T14:32:34.572876+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media reset sonos every morning",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "d04f73786cc24b4e8b0d5cf21e472cb6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_reset_sonos_every_morning",
+                "last_changed": "2019-04-12T14:32:34.575725+00:00",
+                "last_updated": "2019-04-12T14:32:34.575725+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification garage door open and no one is home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "97a6aaf1271448879a7375c2a71a66c3",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_garage_door_open_and_no_one_is_home",
+                "last_changed": "2019-04-12T14:32:34.578546+00:00",
+                "last_updated": "2019-04-12T14:32:34.578546+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote input boolean poweroff",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c18c1f0b969d431a90870de6684e1870",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_input_boolean_poweroff",
+                "last_changed": "2019-04-12T14:32:34.581387+00:00",
+                "last_updated": "2019-04-12T14:32:34.581387+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification garage open for 30min",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8539bd2b72824579932f5ca75a177834",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_garage_open_for_30min",
+                "last_changed": "2019-04-12T14:32:34.584846+00:00",
+                "last_updated": "2019-04-12T14:32:34.584846+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote input boolean tv",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "b327321b6281497f9cda4681f3a0873b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_input_boolean_tv",
+                "last_changed": "2019-04-12T14:32:34.587723+00:00",
+                "last_updated": "2019-04-12T14:32:34.587723+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification alert when a critical device goes offline",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7e0a9d423f8c4a9ebd4e017f407a7fc7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_alert_when_a_critical_device_goes_offline",
+                "last_changed": "2019-04-12T14:32:34.763199+00:00",
+                "last_updated": "2019-04-12T14:32:34.763199+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification garage door left it open",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9518ea84e8ea497da99152c0fbb63fd9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_garage_door_left_it_open",
+                "last_changed": "2019-04-12T14:32:34.766761+00:00",
+                "last_updated": "2019-04-12T14:32:34.766761+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote start activity from input select media center",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "5dead4cb280e4291abe746ecc3c471c7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_start_activity_from_input_select_media_center",
+                "last_changed": "2019-04-12T14:32:34.770199+00:00",
+                "last_updated": "2019-04-12T14:32:34.770199+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification nest has gone into home mode",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a5d105665bda49d888381157f4a638e8",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_nest_has_gone_into_home_mode",
+                "last_changed": "2019-04-12T14:32:34.773803+00:00",
+                "last_updated": "2019-04-12T14:32:34.773803+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote input boolean firetv",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "84c730fba4de4c9eacd6be3fc5289aa6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_input_boolean_firetv",
+                "last_changed": "2019-04-12T14:32:34.777045+00:00",
+                "last_updated": "2019-04-12T14:32:34.777045+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification nest has gone into away mode",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "356347846ab84e82a4b070fa31c3da4e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_nest_has_gone_into_away_mode",
+                "last_changed": "2019-04-12T14:32:34.780516+00:00",
+                "last_updated": "2019-04-12T14:32:34.780516+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "vacation set nest to home if vacation mode turns off",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7911c4f98ff34bb09e9e97bf3e3cae25",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.vacation_set_nest_to_home_if_vacation_mode_turns_off",
+                "last_changed": "2019-04-12T14:32:34.783863+00:00",
+                "last_updated": "2019-04-12T14:32:34.783863+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media master remote external update media center",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "5b372b64b7814029b3a5c0f7aee94568",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_master_remote_external_update_media_center",
+                "last_changed": "2019-04-12T14:32:34.787202+00:00",
+                "last_updated": "2019-04-12T14:32:34.787202+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "vacation turn off when home",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "2bfd131d813a476cbe846d1128273622",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.vacation_turn_off_when_home",
+                "last_changed": "2019-04-12T14:32:34.790518+00:00",
+                "last_updated": "2019-04-12T14:32:34.790518+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media media center remote input boolean poweroff",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "176adebc55a3472e9c55e846bf91e75d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_media_center_remote_input_boolean_poweroff",
+                "last_changed": "2019-04-12T14:32:34.793826+00:00",
+                "last_updated": "2019-04-12T14:32:34.793826+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification failed login",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "e28afafa70b94fc2a7f478f08de884a7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_failed_login",
+                "last_changed": "2019-04-12T14:32:34.797556+00:00",
+                "last_updated": "2019-04-12T14:32:34.797556+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "vacation set nest to away in vacation mode",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "21054a601958414a818f33318ca808a2",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.vacation_set_nest_to_away_in_vacation_mode",
+                "last_changed": "2019-04-12T14:32:34.800992+00:00",
+                "last_updated": "2019-04-12T14:32:34.800992+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "climate nest off if patio door open for 10min",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "675712f7364444b4959bd871c0816c2c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.climate_nest_off_if_patio_door_open_for_10min",
+                "last_changed": "2019-04-12T14:32:34.806210+00:00",
+                "last_updated": "2019-04-12T14:32:34.806210+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media spam tv poweron",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c6b86f8b11a049fbbd4eaaa3ca8d5344",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_spam_tv_poweron",
+                "last_changed": "2019-04-12T14:32:34.809686+00:00",
+                "last_updated": "2019-04-12T14:32:34.809686+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification new version of home assistant",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "6dbeca7036584fb991fd0b563c949a45",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_new_version_of_home_assistant",
+                "last_changed": "2019-04-12T14:32:34.813081+00:00",
+                "last_updated": "2019-04-12T14:32:34.813081+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "system new device connected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "4b25549f18c64e149bed50c6f24d6124",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.system_new_device_connected",
+                "last_changed": "2019-04-12T14:32:34.816613+00:00",
+                "last_updated": "2019-04-12T14:32:34.816613+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable halloween lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0ab92f62e50e4320b2f966069ec9299c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_halloween_lighting",
+                "last_changed": "2019-04-12T14:32:34.819991+00:00",
+                "last_updated": "2019-04-12T14:32:34.819991+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "holiday enable easter lighting",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "68bc4940f441425c91edd69fc43bcb94",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.holiday_enable_easter_lighting",
+                "last_changed": "2019-04-12T14:32:34.823359+00:00",
+                "last_updated": "2019-04-12T14:32:34.823359+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media media center remote input boolean shield",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "895707104ea9437db1d43f1fbd992e96",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_media_center_remote_input_boolean_shield",
+                "last_changed": "2019-04-12T14:32:34.826761+00:00",
+                "last_updated": "2019-04-12T14:32:34.826761+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification text low battery alert",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "ed3ba0fe9f644a4c8d7a9737361aed9c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_text_low_battery_alert",
+                "last_changed": "2019-04-12T14:32:34.830550+00:00",
+                "last_updated": "2019-04-12T14:32:34.830550+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "vacation turn on when gone 24 hours",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7f9687dca5224ead8b435977069db3b6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.vacation_turn_on_when_gone_24_hours",
+                "last_changed": "2019-04-12T14:32:34.833972+00:00",
+                "last_updated": "2019-04-12T14:32:34.833972+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media media center remote input boolean tv",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "8243de40b6f845ac979270f6c02d5a60",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_media_center_remote_input_boolean_tv",
+                "last_changed": "2019-04-12T14:32:34.837712+00:00",
+                "last_updated": "2019-04-12T14:32:34.837712+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification life360 update restored",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "fcce73eccaf94ab18ced9a3882a897c8",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_life360_update_restored",
+                "last_changed": "2019-04-12T14:32:34.841100+00:00",
+                "last_updated": "2019-04-12T14:32:34.841100+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "system clear tts cache",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9b8c2b3d73104cdcb454b29db1d595f9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.system_clear_tts_cache",
+                "last_changed": "2019-04-12T14:32:34.844718+00:00",
+                "last_updated": "2019-04-12T14:32:34.844718+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media media center remote start activity from input select media center",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c1450e0c28cc4eed99eaac4e59019b04",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_media_center_remote_start_activity_from_input_select_media_center",
+                "last_changed": "2019-04-12T14:32:34.849289+00:00",
+                "last_updated": "2019-04-12T14:32:34.849289+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification text ssl expiration 10 days",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "20ec1430ff0544db97f2ab4adeea8699",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_text_ssl_expiration_10_days",
+                "last_changed": "2019-04-12T14:32:34.853040+00:00",
+                "last_updated": "2019-04-12T14:32:34.853040+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "sleeptime reset",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "6d65fe9b6a964eab9c4af92500d64634",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.sleeptime_reset",
+                "last_changed": "2019-04-12T14:32:34.856688+00:00",
+                "last_updated": "2019-04-12T14:32:34.856688+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "doorbell turn exterior lights to 100 when motion detected after 9pm",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "b59ae3b0f6ab40fb939dc76e21f96952",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.doorbell_turn_exterior_lights_to_100_when_motion_detected_after_9pm",
+                "last_changed": "2019-04-12T14:32:34.860265+00:00",
+                "last_updated": "2019-04-12T14:32:34.860265+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "media media center remote external update media center",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "7d9297716f54437ea13aed78f0b16a7c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.media_media_center_remote_external_update_media_center",
+                "last_changed": "2019-04-12T14:32:34.863827+00:00",
+                "last_updated": "2019-04-12T14:32:34.863827+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "notification life360 overdue update",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "88c875258e8044afb3b21dea88d5e1c4",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.notification_life360_overdue_update",
+                "last_changed": "2019-04-12T14:32:34.867520+00:00",
+                "last_updated": "2019-04-12T14:32:34.867520+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "system query cox data usage",
+                    "last_triggered": "2019-04-12T16:00:00.005504+00:00"
+                },
+                "context": {
+                    "id": "c4af165570f74bc999e44f6d2a3085c7",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.system_query_cox_data_usage",
+                "last_changed": "2019-04-12T14:32:34.872255+00:00",
+                "last_updated": "2019-04-12T16:00:00.005803+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T16:17:41.003284+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Erics iPad Pro 12.9",
+                    "source_type": null
+                },
+                "context": {
+                    "id": "597addec67964d83a557d4c57fc9c2bf",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.erics_ipad_pro_129",
+                "last_changed": "2019-04-12T14:29:52.554739+00:00",
+                "last_updated": "2019-04-12T14:29:52.554739+00:00",
+                "state": "not_home"
+            }
+        },
+        {
+            "last_seen": "2019-04-12T13:35:48.286617+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "eric",
+                    "id": "6d265ca964674b3699c74e5b25b179bf",
+                    "user_id": "ad29aa57853f40fcb747fa06b8c78714"
+                },
+                "context": {
+                    "id": "7dd09404b2444cba93caf27adda55ee6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.eric",
+                "last_changed": "2019-04-11T21:31:38.497672+00:00",
+                "last_updated": "2019-04-11T21:31:42.308882+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

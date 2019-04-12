@@ -1,0 +1,791 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.remote_ui",
+                "name": null,
+                "platform": "cloud",
+                "unique_id": "cloud-remote-ui-connectivity"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.eric",
+                "name": null,
+                "platform": "person",
+                "unique_id": "6d265ca964674b3699c74e5b25b179bf"
+            },
+            {
+                "config_entry_id": "f484c86b696d4f1ca0c85a60b6daaa2c",
+                "device_id": "66f840a259b94989b9a71379127fb75e",
+                "disabled_by": null,
+                "entity_id": "switch.livingroom_left",
+                "name": null,
+                "platform": "tplink",
+                "unique_id": "50:C7:BF:31:45:D8"
+            },
+            {
+                "config_entry_id": "f484c86b696d4f1ca0c85a60b6daaa2c",
+                "device_id": "adcd3f7786c64e13830ab2f221e49724",
+                "disabled_by": null,
+                "entity_id": "switch.living_room_tv_and_media",
+                "name": null,
+                "platform": "tplink",
+                "unique_id": "50:C7:BF:D3:86:5F"
+            },
+            {
+                "config_entry_id": "f484c86b696d4f1ca0c85a60b6daaa2c",
+                "device_id": "8be6d89c5e6041b5a93fee2674f472b0",
+                "disabled_by": null,
+                "entity_id": "switch.basement_freezer",
+                "name": null,
+                "platform": "tplink",
+                "unique_id": "50:C7:BF:31:45:DB"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "27ad680a612d44c28a64e142e783bc39",
+                "disabled_by": null,
+                "entity_id": "switch.3d_printer_outlet",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "322eba53-dbee-44c8-85ba-29f06419972d"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "4a7e732ea2db4f50b5864fae100288e6",
+                "disabled_by": null,
+                "entity_id": "switch.foyer_sonos",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "046443f3-dfbb-4592-a086-00a5d0cedceb"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "83f4d741866b4c06aaa462d0c27443d1",
+                "disabled_by": null,
+                "entity_id": "switch.christmas_tree",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "64442a61-c267-4132-9389-a3baee7924bb"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "9309c434b1674c81ada8a12a4554b6b1",
+                "disabled_by": null,
+                "entity_id": "switch.garage_door_opener",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "13790631-b10a-4d0a-846b-40ff2e0674de"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "e7db9d0182ef4d24ad5958aab077187e",
+                "disabled_by": null,
+                "entity_id": "switch.bathroom_light",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "97674216-ecb6-430c-a747-374c5778fcf3"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "9599d372ae9340f59cc39243151f2e51",
+                "disabled_by": null,
+                "entity_id": "switch.outside_christmas_lights",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6d733edb-982a-415c-b772-7b42b13f9087"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ad5ec23f2d894d4ea73dfe016daf8a75",
+                "disabled_by": null,
+                "entity_id": "switch.basement_data_equip",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "15671aec-bfd5-4035-b7b3-c26fe467b1cd"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "95d3f99536d040e491761b6591d7b290",
+                "disabled_by": null,
+                "entity_id": "switch.wake_up_light",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "2029e4d5-a10e-449b-9519-92cf593a335f"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "afd988e5e2b140968f563c53cd77d013",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.in_law_slider_smartsense_open_closed_sensor_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7a5e46dd-01f6-40ca-bb56-bdcf34c7b068.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d68872f63f564c11b74a2332e4c8792e",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.sliding_door_sensor_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6e0798cf-6bcf-4ebf-8643-3f9c84a0870d.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d915ff083a34414692cc69b8b06339a9",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.breezeway_cam_motion",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "51673c08-2115-4cea-9071-47ec405cadfe.motion"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a1b18d69cd0d4b6b98c6aec8aab2174f",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.garage_door_sensor_left_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "01a143f8-7b2a-43a1-bf46-1f873f6487f4.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "49ff54ffb6f1417fa8d5ca5fc25d376f",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.kim_s_iphone_presence",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "9e11c940-a5d5-49d4-acd9-205cfdd71e9a.presence"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.washing_machine_acceleration",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.acceleration"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.washing_machine_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.smartsense_mood_cube_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "9309c434b1674c81ada8a12a4554b6b1",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.garage_door_opener_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "13790631-b10a-4d0a-846b-40ff2e0674de.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1a9f3e624a8f40e28fd8c5a6b25ded21",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.front_door_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "f1e59963-51f0-4ed5-b0ba-b48baf919b6e.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "6790a1e4200f45c0bf6fe6c79a04f0c8",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.eric_s_iphone_presence",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "a1015a53-920d-4b87-81b2-716c3852c15b.presence"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d367788d0bf54973b580582e87c9294e",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.garage_entry_to_house_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7b8d2c11-8b0a-4403-bfdb-536300ffea32.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a4003c1ecd8247b993ad5ab74fd8a75e",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.garage_door_sensor_right_contact",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b0ffd220-1ebb-4310-804b-36a066d410ec.contact"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "33a2c9bd89b643e0b6bca61d59d7e58f",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.water_leak_sensor_water",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e7e80a42-2eac-46fe-8837-1ed95353b744.water"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.smartsense_mood_cube_acceleration",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.acceleration"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "415edb68f7e54d28b0714ec2e3a6b590",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_alarm_first_floor_alarm_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6c7e1117-1e83-4a55-8bea-2fb1e8f6b0f8.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "4135a413400542fb9dc0a0aa37adbd83",
+                "disabled_by": null,
+                "entity_id": "sensor.smartthings_tile_relative_humidity_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "54b3ba2d-90cc-45b1-9a6d-ba233b3fbb07.humidity"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a1b18d69cd0d4b6b98c6aec8aab2174f",
+                "disabled_by": null,
+                "entity_id": "sensor.garage_door_sensor_left_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "01a143f8-7b2a-43a1-bf46-1f873f6487f4.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_rssi_signal_strength",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.rssi"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d68872f63f564c11b74a2332e4c8792e",
+                "disabled_by": null,
+                "entity_id": "sensor.sliding_door_sensor_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6e0798cf-6bcf-4ebf-8643-3f9c84a0870d.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "415edb68f7e54d28b0714ec2e3a6b590",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_alarm_first_floor_alarm_carbon_monoxide_detector",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6c7e1117-1e83-4a55-8bea-2fb1e8f6b0f8.carbonMonoxide"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "4135a413400542fb9dc0a0aa37adbd83",
+                "disabled_by": null,
+                "entity_id": "sensor.smartthings_tile_ultraviolet_index",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "54b3ba2d-90cc-45b1-9a6d-ba233b3fbb07.ultravioletIndex"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "afd988e5e2b140968f563c53cd77d013",
+                "disabled_by": null,
+                "entity_id": "sensor.in_law_slider_smartsense_open_closed_sensor_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7a5e46dd-01f6-40ca-bb56-bdcf34c7b068.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "4135a413400542fb9dc0a0aa37adbd83",
+                "disabled_by": null,
+                "entity_id": "sensor.smartthings_tile_illuminance",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "54b3ba2d-90cc-45b1-9a6d-ba233b3fbb07.illuminance"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "afd988e5e2b140968f563c53cd77d013",
+                "disabled_by": null,
+                "entity_id": "sensor.in_law_slider_smartsense_open_closed_sensor_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7a5e46dd-01f6-40ca-bb56-bdcf34c7b068.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "5af0568e7860498cb8619705ac1533a4",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_detector_and_carbon_monoxide_alarm_basement_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b625233a-499f-4869-adc7-62ad0a4058e2.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "sensor.washing_machine_x_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.X Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "sensor.washing_machine_z_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.Z Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "5af0568e7860498cb8619705ac1533a4",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_detector_and_carbon_monoxide_alarm_basement_carbon_monoxide_detector",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b625233a-499f-4869-adc7-62ad0a4058e2.carbonMonoxide"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "4135a413400542fb9dc0a0aa37adbd83",
+                "disabled_by": null,
+                "entity_id": "sensor.smartthings_tile_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "54b3ba2d-90cc-45b1-9a6d-ba233b3fbb07.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "5af0568e7860498cb8619705ac1533a4",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_detector_and_carbon_monoxide_alarm_basement_smoke_detector",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b625233a-499f-4869-adc7-62ad0a4058e2.smoke"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_lqi_signal_strength",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.lqi"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "415edb68f7e54d28b0714ec2e3a6b590",
+                "disabled_by": null,
+                "entity_id": "sensor.smoke_alarm_first_floor_alarm_smoke_detector",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6c7e1117-1e83-4a55-8bea-2fb1e8f6b0f8.smoke"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "33a2c9bd89b643e0b6bca61d59d7e58f",
+                "disabled_by": null,
+                "entity_id": "sensor.water_leak_sensor_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e7e80a42-2eac-46fe-8837-1ed95353b744.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "sensor.washing_machine_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_y_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.Y Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "33a2c9bd89b643e0b6bca61d59d7e58f",
+                "disabled_by": null,
+                "entity_id": "sensor.water_leak_sensor_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e7e80a42-2eac-46fe-8837-1ed95353b744.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "sensor.washing_machine_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_x_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.X Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "ee7525708ea84b208a54c910dedefe57",
+                "disabled_by": null,
+                "entity_id": "sensor.smartsense_mood_cube_z_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "637f87fb-0d4e-4078-8337-9da35b400328.Z Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "f7a198e3eb294a5597f7166e8fd85325",
+                "disabled_by": null,
+                "entity_id": "sensor.aeon_home_energy_meter_v1_w_cost_energy_meter",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "10f8df9e-5bcb-415b-8abe-0e46f1355c90.energy"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1a9f3e624a8f40e28fd8c5a6b25ded21",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "f1e59963-51f0-4ed5-b0ba-b48baf919b6e.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d68872f63f564c11b74a2332e4c8792e",
+                "disabled_by": null,
+                "entity_id": "sensor.sliding_door_sensor_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6e0798cf-6bcf-4ebf-8643-3f9c84a0870d.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "disabled_by": null,
+                "entity_id": "sensor.washing_machine_y_coordinate",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "e80d8999-f3a8-4ca1-9a78-1a1e774c4908.Y Coordinate"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "f7a198e3eb294a5597f7166e8fd85325",
+                "disabled_by": null,
+                "entity_id": "sensor.aeon_home_energy_meter_v1_w_cost_power_meter",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "10f8df9e-5bcb-415b-8abe-0e46f1355c90.power"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d367788d0bf54973b580582e87c9294e",
+                "disabled_by": null,
+                "entity_id": "sensor.garage_entry_to_house_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7b8d2c11-8b0a-4403-bfdb-536300ffea32.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "1a9f3e624a8f40e28fd8c5a6b25ded21",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "f1e59963-51f0-4ed5-b0ba-b48baf919b6e.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d367788d0bf54973b580582e87c9294e",
+                "disabled_by": null,
+                "entity_id": "sensor.garage_entry_to_house_temperature_measurement",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "7b8d2c11-8b0a-4403-bfdb-536300ffea32.temperature"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a4003c1ecd8247b993ad5ab74fd8a75e",
+                "disabled_by": null,
+                "entity_id": "sensor.garage_door_sensor_right_battery",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b0ffd220-1ebb-4310-804b-36a066d410ec.battery"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "daf082d99b0e4abe914ab489273281b7",
+                "disabled_by": null,
+                "entity_id": "climate.in_law_stelpro_ki_thermostat",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "6bc890ff-b50d-4337-b652-aae33daac9f4"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "scene.movie",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "d637dcfd-d017-42f2-ae2c-05e707a60755"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "9309c434b1674c81ada8a12a4554b6b1",
+                "disabled_by": null,
+                "entity_id": "cover.garage_door_opener",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "13790631-b10a-4d0a-846b-40ff2e0674de"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "81aac2ae71e349829600b914aa7d0563",
+                "disabled_by": null,
+                "entity_id": "light.zoutside_dimmer_switch",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "a6005e55-6526-41f3-a48c-3025123af334"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a77659bbe075459db226b6e1d0d0579b",
+                "disabled_by": null,
+                "entity_id": "light.breezeway_light",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "c2f4e0c3-2194-4801-b369-5beaa9ccabbb"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "e911a6583aa846faa3580fc5dbac6807",
+                "disabled_by": null,
+                "entity_id": "light.family_room_left_bulb",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "a1a8e45e-b333-4ba6-987b-8e5421a864ee"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "a0fafd21f97e4b1da5c74c3e619fbcc1",
+                "disabled_by": null,
+                "entity_id": "light.family_room_right_bulb",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "b80ef034-a429-4d42-a75f-7038af87251e"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "8ec47d1c347c46c086146e5f88f32026",
+                "disabled_by": null,
+                "entity_id": "light.z_wave_repeater_basement_freezer",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "ddb26a6a-b619-4dba-9c83-ea2afb73c447"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "250e06e3e06547e49b913d685f9845f3",
+                "disabled_by": null,
+                "entity_id": "light.bedroom",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "5ea127a8-74dc-498a-a91f-427b25b3ea90"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "d915ff083a34414692cc69b8b06339a9",
+                "disabled_by": null,
+                "entity_id": "light.breezeway_cam",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "51673c08-2115-4cea-9071-47ec405cadfe"
+            },
+            {
+                "config_entry_id": "53ea8c4818e94e8bb3055491e98b26b7",
+                "device_id": "26d3b6da244140d5b7fbcb4465e267f0",
+                "disabled_by": null,
+                "entity_id": "light.z_wave_repeat_basement_freezer",
+                "name": null,
+                "platform": "smartthings",
+                "unique_id": "2936acbe-99ad-45e0-b941-502a15f6f014"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "remote.65_hisense_roku_tv",
+                "name": null,
+                "platform": "roku",
+                "unique_id": "YN00AE737722"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.65_hisense_roku_tv",
+                "name": null,
+                "platform": "roku",
+                "unique_id": "YN00AE737722"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.basement_data_equip_2",
+                "name": null,
+                "platform": "wemo",
+                "unique_id": "231819K120046E"
+            },
+            {
+                "config_entry_id": "25568a68cadf472cb9273158a772c528",
+                "device_id": "7275db558382470fab63e9bd666d8393",
+                "disabled_by": null,
+                "entity_id": "light.living_room_right",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:00:fe:22:5e-0b"
+            },
+            {
+                "config_entry_id": "25568a68cadf472cb9273158a772c528",
+                "device_id": "f9f12df2f3ea4c9e90a39eb141410729",
+                "disabled_by": null,
+                "entity_id": "light.bedroom_2",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:00:f9:30:94-0b"
+            },
+            {
+                "config_entry_id": "25568a68cadf472cb9273158a772c528",
+                "device_id": "5498926fb0c3483c83deb4fc0d310ea5",
+                "disabled_by": null,
+                "entity_id": "light.living_room_left",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:00:e7:f9:9c-0b"
+            },
+            {
+                "config_entry_id": "25568a68cadf472cb9273158a772c528",
+                "device_id": "5d6dcfa156274935872ba7806fb110cd",
+                "disabled_by": null,
+                "entity_id": "light.breezeway",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:00:d3:a3:23-0b"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.u_s_main_pollutant",
+                "name": null,
+                "platform": "airvisual",
+                "unique_id": "42.652080555907034,-70.6120999281997_us_main_pollutant"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.u_s_air_pollution_level",
+                "name": null,
+                "platform": "airvisual",
+                "unique_id": "42.652080555907034,-70.6120999281997_us_air_pollution_level"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.u_s_air_quality_index",
+                "name": null,
+                "platform": "airvisual",
+                "unique_id": "42.652080555907034,-70.6120999281997_us_air_quality_index"
+            },
+            {
+                "config_entry_id": "1a2955903b564780a03ee517b574f3f5",
+                "device_id": "cd75b09c92724a81b32fad23e8957b41",
+                "disabled_by": null,
+                "entity_id": "sensor.erics_ipad_pro_12_9_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_erics_ipad_pro_129"
+            },
+            {
+                "config_entry_id": "1a2955903b564780a03ee517b574f3f5",
+                "device_id": "cd75b09c92724a81b32fad23e8957b41",
+                "disabled_by": null,
+                "entity_id": "sensor.erics_ipad_pro_12_9_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_erics_ipad_pro_129"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

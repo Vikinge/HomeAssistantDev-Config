@@ -1,0 +1,28 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "name": "Basement"
+            },
+            {
+                "id": "769d431ed3344247a50b88087bb1dcc2",
+                "name": "Other"
+            },
+            {
+                "id": "072219e980374eba9639d5b674cfffa6",
+                "name": "LivingRoom"
+            },
+            {
+                "id": "f7af43f6a0d8468e8dc759ed1c31fb82",
+                "name": "Garage"
+            },
+            {
+                "id": "ab6658f8c4674ad0b1417deec807beea",
+                "name": "Bedroom"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

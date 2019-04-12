@@ -1,0 +1,105 @@
+title: My Awesome Home
+# Include external resources
+# resources:
+#   - url: /local/my-custom-card.js
+#     type: js
+#   - url: /local/my-webfont.css
+#     type: css
+
+resources:
+#  - url: /config/custom_cards/canvas-gauge-card.js
+#    type: module
+
+    - type: custom:canvas-gauge-card
+      entity: sensor.processor_use
+      name: Processor (%)
+      card_height: 145
+      shadow_height: 15%
+      font_size: 1em
+      gauge:
+        type: "radial-gauge"
+        width: 220
+        height: 220
+        minValue: 0
+        maxValue: 100
+        startAngle: 90
+        ticksAngle: 180
+        valueBox: false
+        majorTicks: ["0", "10", "20", "30", "40", "50", "60", "70", "80", "90", "100"]
+        minorTicks: 2
+        strokeTicks: true
+        highlights: [{"from": 80, "to": 100,"color": "rgba(200, 50, 50, .75)"}]
+        borders: false 
+        
+# Optional background for all views. Check https://developer.mozilla.org/en-US/docs/Web/CSS/background for more examples.
+background: center / cover no-repeat url("/background.png") fixed
+# Exclude entities from "Unused entities" view
+excluded_entities:
+  - weblink.router
+views:
+    # View tab title.
+
+
+    # Specify a tab icon if you want the view tab to be an icon.
+  - icon: mdi:home-assistant
+    # Title of the view. Will be used as the tooltip for tab icon
+    title: Second view
+    cards:
+        # Entities card will take a list of entities and show their state.
+      - type: entities
+        # Title of the entities card
+        title: Example
+        # The entities here will be shown in the same order as specified.
+        # Each entry is an entity ID or a map with extra options.
+        entities:
+          - light.kitchen
+          - switch.ac
+          - entity: light.living_room
+            # Override the name to use
+            name: LR Lights
+
+        # The markdown card will render markdown text.
+      - type: markdown
+        title: Lovelace
+        content: >
+          Welcome to your **Lovelace UI**.
+
+  - title: Example
+    # Unique path for direct access /lovelace/${path}
+    path: example
+    # Optional background (overwrites the global background).
+    background: radial-gradient(crimson, skyblue)
+    # Each view can have a different theme applied. Theme should be defined in the frontend.
+    theme: dark-mode
+    # The cards to show on this view.
+    # cards:  https://www.home-assistant.io/lovelace/views/
+    cards:
+        # The filter card will filter entities for their state
+      - type: entity-filter
+        entities:
+          - device_tracker.paulus
+          - device_tracker.anne_there
+        state_filter:
+          - 'home'
+        card:
+          type: glance
+          title: People that are home
+
+        # The picture entity card will represent an entity with a picture
+      # - type: picture-entity
+      #   image: https://www.home-assistant.io/images/default-social.png
+      #   entity: light.bedroom
+        type: light
+        entity: light.family_room_left_bulb
+        name: Living Room Left
+
+        type: light
+        entity: light.family_room_right_bulb
+        name: Living Room Right
+
+
+# aspect_ratio: 90%
+# type: iframe
+# url: >-
+#   https://embed.windy.com/embed2.html?lat=32.487&lon=-84.023&zoom=5&level=surface&overlay=rain&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=32.487&detailLon=--84.023&metricWind=default&metricTemp=default&radarRange=-1
+

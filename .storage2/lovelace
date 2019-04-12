@@ -1,0 +1,41 @@
+{
+    "data": {
+        "config": {
+            "title": "Home",
+            "views": [
+                {
+                    "badges": [
+                        "binary_sensor.remote_ui",
+                        "person.eric",
+                        "sensor.yr_symbol",
+                        "sun.sun"
+                    ],
+                    "cards": [
+                        {
+                            "entity": "media_player.65_hisense_roku_tv",
+                            "type": "media-control"
+                        },
+                        {
+                            "entities": [
+                                "remote.65_hisense_roku_tv"
+                            ],
+                            "title": "Remote",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "switch.basement_data_equip"
+                            ],
+                            "title": "Switch",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

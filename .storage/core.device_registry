@@ -1,0 +1,833 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "f484c86b696d4f1ca0c85a60b6daaa2c"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "50:c7:bf:31:45:d8"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "66f840a259b94989b9a71379127fb75e",
+                "identifiers": [],
+                "manufacturer": "TP-Link",
+                "model": "HS110(US)",
+                "name": "LivingRoom left",
+                "name_by_user": null,
+                "sw_version": "1.2.5 Build 171206 Rel.085954"
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "f484c86b696d4f1ca0c85a60b6daaa2c"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "50:c7:bf:d3:86:5f"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "adcd3f7786c64e13830ab2f221e49724",
+                "identifiers": [],
+                "manufacturer": "TP-Link",
+                "model": "HS110(US)",
+                "name": "Living room tv and media",
+                "name_by_user": null,
+                "sw_version": "1.2.5 Build 171206 Rel.085954"
+            },
+            {
+                "area_id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "config_entries": [
+                    "f484c86b696d4f1ca0c85a60b6daaa2c"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "50:c7:bf:31:45:db"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "8be6d89c5e6041b5a93fee2674f472b0",
+                "identifiers": [],
+                "manufacturer": "TP-Link",
+                "model": "HS110(US)",
+                "name": "Basement Freezer",
+                "name_by_user": null,
+                "sw_version": "1.2.5 Build 171206 Rel.085954"
+            },
+            {
+                "area_id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "27ad680a612d44c28a64e142e783bc39",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "322eba53-dbee-44c8-85ba-29f06419972d"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Iris Smart Plug",
+                "name": "3D Printer Outlet",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "4a7e732ea2db4f50b5864fae100288e6",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "046443f3-dfbb-4592-a086-00a5d0cedceb"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Sonos Player",
+                "name": "Foyer Sonos",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "769d431ed3344247a50b88087bb1dcc2",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "83f4d741866b4c06aaa462d0c27443d1",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "64442a61-c267-4132-9389-a3baee7924bb"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartPower Outlet",
+                "name": "Christmas Tree",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "f7af43f6a0d8468e8dc759ed1c31fb82",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "9309c434b1674c81ada8a12a4554b6b1",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "13790631-b10a-4d0a-846b-40ff2e0674de"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "MyQ Garage Door Opener",
+                "name": "Garage Door Opener",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "e7db9d0182ef4d24ad5958aab077187e",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "97674216-ecb6-430c-a747-374c5778fcf3"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Switch",
+                "name": "Bathroom Light",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "769d431ed3344247a50b88087bb1dcc2",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "9599d372ae9340f59cc39243151f2e51",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "6d733edb-982a-415c-b772-7b42b13f9087"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Switch Generic",
+                "name": "Outside Christmas Lights",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "ad5ec23f2d894d4ea73dfe016daf8a75",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "15671aec-bfd5-4035-b7b3-c26fe467b1cd"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Wemo Switch",
+                "name": "Basement Data Equip",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "ab6658f8c4674ad0b1417deec807beea",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "95d3f99536d040e491761b6591d7b290",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "2029e4d5-a10e-449b-9519-92cf593a335f"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Gentle Wake Up Controller",
+                "name": "Wake Up Light",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "afd988e5e2b140968f563c53cd77d013",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "7a5e46dd-01f6-40ca-bb56-bdcf34c7b068"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Open/Closed Sensor",
+                "name": "In-Law slider SmartSense Open/Closed Sensor",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "d68872f63f564c11b74a2332e4c8792e",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "6e0798cf-6bcf-4ebf-8643-3f9c84a0870d"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Open/Closed Sensor",
+                "name": "Sliding Door Sensor",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "d915ff083a34414692cc69b8b06339a9",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "51673c08-2115-4cea-9071-47ec405cadfe"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Amcrest Camera",
+                "name": "Breezeway CAM",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "f7af43f6a0d8468e8dc759ed1c31fb82",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "a1b18d69cd0d4b6b98c6aec8aab2174f",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "01a143f8-7b2a-43a1-bf46-1f873f6487f4"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Door/Window Sensor",
+                "name": "Garage Door Sensor Left",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "49ff54ffb6f1417fa8d5ca5fc25d376f",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "9e11c940-a5d5-49d4-acd9-205cfdd71e9a"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Mobile Presence",
+                "name": "Kim's iPhone",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "1d499ba43ce544b6ab5c5c77897f76e6",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "e80d8999-f3a8-4ca1-9a78-1a1e774c4908"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Multi Sensor",
+                "name": "Washing Machine",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "ee7525708ea84b208a54c910dedefe57",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "637f87fb-0d4e-4078-8337-9da35b400328"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Multi",
+                "name": "SmartSense Mood Cube",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "1a9f3e624a8f40e28fd8c5a6b25ded21",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "f1e59963-51f0-4ed5-b0ba-b48baf919b6e"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Open/Closed Sensor",
+                "name": "Front Door",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "6790a1e4200f45c0bf6fe6c79a04f0c8",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "a1015a53-920d-4b87-81b2-716c3852c15b"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Mobile Presence",
+                "name": "eric's iPhone",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "d367788d0bf54973b580582e87c9294e",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "7b8d2c11-8b0a-4403-bfdb-536300ffea32"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Open/Closed Sensor",
+                "name": "Garage Entry To House",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "a4003c1ecd8247b993ad5ab74fd8a75e",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "b0ffd220-1ebb-4310-804b-36a066d410ec"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Door/Window Sensor",
+                "name": "Garage Door Sensor Right",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "33a2c9bd89b643e0b6bca61d59d7e58f",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "e7e80a42-2eac-46fe-8837-1ed95353b744"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartSense Moisture Sensor",
+                "name": "Water Leak Sensor",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "415edb68f7e54d28b0714ec2e3a6b590",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "6c7e1117-1e83-4a55-8bea-2fb1e8f6b0f8"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Smoke Alarm",
+                "name": "Smoke Alarm First Floor Alarm",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "4135a413400542fb9dc0a0aa37adbd83",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "54b3ba2d-90cc-45b1-9a6d-ba233b3fbb07"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "SmartWeather Station Tile",
+                "name": "SmartThings Tile",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "5af0568e7860498cb8619705ac1533a4",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "b625233a-499f-4869-adc7-62ad0a4058e2"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Smoke Alarm",
+                "name": "Smoke Detector and Carbon Monoxide Alarm Basement",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "f7a198e3eb294a5597f7166e8fd85325",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "10f8df9e-5bcb-415b-8abe-0e46f1355c90"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Aeon Home Energy Meter V1 w/Cost",
+                "name": "Aeon Home Energy Meter V1 w/Cost",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "daf082d99b0e4abe914ab489273281b7",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "6bc890ff-b50d-4337-b652-aae33daac9f4"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Stelpro Ki Thermostat",
+                "name": "In-Law Stelpro Ki Thermostat",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "81aac2ae71e349829600b914aa7d0563",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "a6005e55-6526-41f3-a48c-3025123af334"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Dimmer Switch",
+                "name": "zOutside Dimmer Switch",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "a77659bbe075459db226b6e1d0d0579b",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "c2f4e0c3-2194-4801-b369-5beaa9ccabbb"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Hue Extended Color",
+                "name": "Breezeway Light",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "e911a6583aa846faa3580fc5dbac6807",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "a1a8e45e-b333-4ba6-987b-8e5421a864ee"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Hue Extended Color",
+                "name": "Family Room Left Bulb",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "a0fafd21f97e4b1da5c74c3e619fbcc1",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "b80ef034-a429-4d42-a75f-7038af87251e"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Hue Extended Color",
+                "name": "Family Room Right Bulb",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "8ec47d1c347c46c086146e5f88f32026",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "ddb26a6a-b619-4dba-9c83-ea2afb73c447"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Device",
+                "name": "Z-Wave Repeater Basement Freezer",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "ab6658f8c4674ad0b1417deec807beea",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "250e06e3e06547e49b913d685f9845f3",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "5ea127a8-74dc-498a-a91f-427b25b3ea90"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "LAN Hue Extended Color",
+                "name": "Bedroom",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "1f19ff951ac54e50804c9872c5a44bfc",
+                "config_entries": [
+                    "53ea8c4818e94e8bb3055491e98b26b7"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "26d3b6da244140d5b7fbcb4465e267f0",
+                "identifiers": [
+                    [
+                        "smartthings",
+                        "2936acbe-99ad-45e0-b941-502a15f6f014"
+                    ]
+                ],
+                "manufacturer": "Unavailable",
+                "model": "Z-Wave Device",
+                "name": "Z-Wave Repeat basement Freezer",
+                "name_by_user": null,
+                "sw_version": null
+            },
+            {
+                "area_id": "769d431ed3344247a50b88087bb1dcc2",
+                "config_entries": [
+                    "25568a68cadf472cb9273158a772c528"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:22:73:1b"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "75d50c87338849dfafcceda4435dbefa",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE22731B"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Philips hue",
+                "name_by_user": null,
+                "sw_version": "1901181309"
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "25568a68cadf472cb9273158a772c528"
+                ],
+                "connections": [],
+                "hub_device_id": "75d50c87338849dfafcceda4435dbefa",
+                "id": "7275db558382470fab63e9bd666d8393",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:00:fe:22:5e-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color lamp",
+                "name": "Living room right",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26581"
+            },
+            {
+                "area_id": "ab6658f8c4674ad0b1417deec807beea",
+                "config_entries": [
+                    "25568a68cadf472cb9273158a772c528"
+                ],
+                "connections": [],
+                "hub_device_id": "75d50c87338849dfafcceda4435dbefa",
+                "id": "f9f12df2f3ea4c9e90a39eb141410729",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:00:f9:30:94-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color lamp",
+                "name": "Bedroom",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26581"
+            },
+            {
+                "area_id": "072219e980374eba9639d5b674cfffa6",
+                "config_entries": [
+                    "25568a68cadf472cb9273158a772c528"
+                ],
+                "connections": [],
+                "hub_device_id": "75d50c87338849dfafcceda4435dbefa",
+                "id": "5498926fb0c3483c83deb4fc0d310ea5",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:00:e7:f9:9c-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color lamp",
+                "name": "Living room left",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26581"
+            },
+            {
+                "area_id": "769d431ed3344247a50b88087bb1dcc2",
+                "config_entries": [
+                    "25568a68cadf472cb9273158a772c528"
+                ],
+                "connections": [],
+                "hub_device_id": "75d50c87338849dfafcceda4435dbefa",
+                "id": "5d6dcfa156274935872ba7806fb110cd",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:00:d3:a3:23-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue color lamp",
+                "name": "Breezeway",
+                "name_by_user": null,
+                "sw_version": "5.105.0.21169"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1a2955903b564780a03ee517b574f3f5"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "cd75b09c92724a81b32fad23e8957b41",
+                "identifiers": [
+                    [
+                        "ios",
+                        "31E662A6-066C-427D-89B3-1A6B608503EC"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPad8,5",
+                "name": "Erics iPad Pro 12.9",
+                "name_by_user": null,
+                "sw_version": "12.2"
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}
